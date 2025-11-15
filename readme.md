@@ -56,11 +56,11 @@ Metric Calculation → Statistical Analysis → Visualization → Reports
 - Player movement trajectories
 - Activity heatmaps
 
-![Top players by distance](images/top%20players.png)
+![Top players by distance](/top%20players.png)
 
-![Speed distribution](images/speed%20distribution.png)
+![Speed distribution](/speed%20distribution.png)
 
-![Activity heatmap](images/activity%20heatmap.png)
+![Activity heatmap](/activity%20heatmap.png)
 
 
 
@@ -222,6 +222,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 If you find this project useful, please consider giving it a star! It helps others discover the project.
 
 ---
+
 
 
 
