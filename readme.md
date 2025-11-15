@@ -36,7 +36,7 @@ This project automatically analyzes football match videos to extract player move
 
 Video → Frame Extraction → AI Detection → Player Tracking → 
 Metric Calculation → Statistical Analysis → Visualization → Reports
-```
+
 
 ### Output
 
@@ -226,3 +226,4 @@ If you find this project useful, please consider giving it a star! It helps othe
 
 
 **Built with ❤️ for the sports analytics community**
+
