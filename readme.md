@@ -25,14 +25,6 @@ This project automatically analyzes football match videos to extract player move
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisites
-```bash
-Python 3.8+
-pip or conda
-
----
 
 ## 📊 What It Does
 
@@ -42,7 +34,6 @@ pip or conda
 
 ### Processing Pipeline
 
-```
 Video → Frame Extraction → AI Detection → Player Tracking → 
 Metric Calculation → Statistical Analysis → Visualization → Reports
 ```
@@ -221,9 +212,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 📞 Contact
 
 **Your Name**  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-💼 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+📧 Email: mussaussie@gmail.com 
+🔗 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdul-mussavir/))  
+
 
 ---
 
@@ -232,5 +223,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 If you find this project useful, please consider giving it a star! It helps others discover the project.
 
 ---
+
 
 **Built with ❤️ for the sports analytics community**
