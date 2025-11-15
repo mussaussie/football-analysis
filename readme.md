@@ -213,8 +213,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 **Your Name**  
 📧 Email: mussaussie@gmail.com 
-🔗 LinkedIn: [[[linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdul-mussavir/)](https://www.linkedin.com/in/abdul-mussavir/)] 
-
+🔗 LinkedIn: [(https://www.linkedin.com/in/abdul-mussavir/)]
 
 ---
 
@@ -225,6 +224,5 @@ If you find this project useful, please consider giving it a star! It helps othe
 ---
 
 
-**Built with ❤️ for the sports analytics community**
 
 
